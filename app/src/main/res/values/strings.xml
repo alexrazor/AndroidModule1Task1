@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="increaseButton">Increase value</string>
+    <string name="countValue">Value is: </string>
+    <string name="resetValue">Reset Value</string>
+    <string name="valueNotSet">Value Not Set</string>
+    <string name="hintText">fill some symbols here</string>
+</resources>
